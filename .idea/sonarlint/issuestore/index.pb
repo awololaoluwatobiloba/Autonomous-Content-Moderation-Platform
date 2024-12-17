@@ -11,3 +11,5 @@ P
  tests/content-moderation.test.ts,a/b/ab4fcd0b5b2dfb9b078f3c0761e2f9c63a196940
 Q
 !contracts/content-submission.clar,c/e/ceed69fbeb2faf7492598c94ba6765fc41ee567a
+P
+ tests/content-submission.test.ts,1/c/1c9b44f2999594566cab1c27995bacc0ccbecf6f
