@@ -13,3 +13,5 @@ Q
 !contracts/content-submission.clar,c/e/ceed69fbeb2faf7492598c94ba6765fc41ee567a
 P
  tests/content-submission.test.ts,1/c/1c9b44f2999594566cab1c27995bacc0ccbecf6f
+P
+ contracts/moderator-staking.clar,1/2/12a3d1f315f71a6d1228fc5df539a6aade00be97
