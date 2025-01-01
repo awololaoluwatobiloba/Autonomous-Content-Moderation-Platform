@@ -1,0 +1,29 @@
+[project]
+name = 'Autonomous-Content-Moderation-Platform'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.content-moderation]
+path = 'contracts/content-moderation.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.content-submission]
+path = 'contracts/content-submission.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.moderator-staking]
+path = 'contracts/moderator-staking.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
